@@ -1,0 +1,6 @@
+streamlit>=1.40
+prometheus_client
+transformers
+torch
+pillow
+psutil
